@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"utilities","l":"Iterator"},{"p":"utilities","l":"ListADT"},{"p":"utilities","l":"MyArrayList"},{"p":"utilities","l":"MyDLList"},{"p":"utilities","l":"MyDLLNode"},{"p":"utilities","l":"QueueADT"},{"p":"utilities","l":"StackADT"}];updateSearchResults();

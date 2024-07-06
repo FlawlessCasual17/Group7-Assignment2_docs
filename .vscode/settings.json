@@ -1,0 +1,14 @@
+{
+    "netbeans.java.onSave.organizeImports": false,
+    "netbeans.java.imports.groups": [
+        "java",
+        "javax",
+        "org",
+        "com",
+        ""
+    ],
+    // Tell mdl to stfu about numbering
+    "markdownlint.config": {
+        "ol-prefix": false
+    }
+}
