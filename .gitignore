@@ -1,6 +1,2 @@
-# Web template downloaded with gut
-### Web ###
-*.wasm
-
 .gut
 .idea/GitLink.xml
