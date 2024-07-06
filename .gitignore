@@ -1,0 +1,19 @@
+
+# Web template downloaded with gut
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
+
+.gut
