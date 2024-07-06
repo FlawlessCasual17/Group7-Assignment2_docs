@@ -3,3 +3,4 @@
 *.wasm
 
 .gut
+.idea/GitLink.xml
